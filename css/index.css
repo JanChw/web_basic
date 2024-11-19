@@ -1,0 +1,9 @@
+body {
+  color: orange;
+  font-size: 20px;
+}
+
+p {
+  background-color: rgb(192, 89, 89);
+  color: hsl(0, 44.9781659389%, 105.0980392157%);
+}
